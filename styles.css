@@ -21,3 +21,15 @@ h2 {
 .second {
 	color: red;
 }
+
+p {
+	font-size: 120%;
+}
+
+[align="center"]{
+	color: blue;
+}
+
+[align="right"] {
+	color: yellow;
+}
