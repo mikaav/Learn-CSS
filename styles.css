@@ -4,11 +4,12 @@ body {
 	color: white;
 }
 
-p strong {
-	font-size: 200%;
-}
-
 h2 {
 	text-align: center;
 	font-size: 200%;
+}
+
+#porshe {
+	font-size: 200%;
+	text-decoration: none;
 }
